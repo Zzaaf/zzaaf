@@ -1,4 +1,4 @@
-### The madness begins! :the_horns:
+### The madness begins!
 
 <!--
 **Zzaaf/zzaaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
